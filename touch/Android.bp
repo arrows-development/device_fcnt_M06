@@ -27,6 +27,6 @@ cc_binary {
         "libbinder_ndk",
         "liblog",
         "libutils",
-        "vendor.lineage.touch-V1-ndk",
+        //"vendor.lineage.touch-V1-ndk",
     ],
 }
